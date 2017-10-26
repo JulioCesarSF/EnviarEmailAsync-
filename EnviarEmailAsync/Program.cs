@@ -19,7 +19,7 @@ namespace EnviarEmailAsync
             ConfiguracaoEmail cfg = new ConfiguracaoEmail()
             {
                 Usuario = "julio.com@uol.com.br",
-                Senha = "2diol",
+                Senha = "",
                 Porta = 587,
                 Servidor = "smtps.uol.com.br"
             };
